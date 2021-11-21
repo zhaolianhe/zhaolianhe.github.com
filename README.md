@@ -1,2 +1,2 @@
-# zhaolianhe.github.com
+# Lianhe Zhao
 My online resume
